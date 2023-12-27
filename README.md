@@ -1,6 +1,5 @@
 # Fullstack Twitch Clone: Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, MySQL
 
-
 This is a repository for Fullstack Trello Clone: Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, MySQL
 
 Key Features:
