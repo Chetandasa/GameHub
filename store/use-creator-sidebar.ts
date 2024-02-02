@@ -11,4 +11,3 @@ export const useCreatorSidebar = create<CreatorSidebarStore>((set) => ({
   onExpand: () => set(() => ({ collapsed: false })),
   onCollapse: () => set(() => ({ collapsed: true })),
 }));
-
